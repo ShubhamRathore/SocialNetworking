@@ -1,0 +1,49 @@
+﻿<settings>
+  <General_Properties>
+    <maximize value="true"/>
+    <componentWidth value="600"/>
+    <componentHeight value="400"/>
+    <columns value="10"/>
+    <radius value="100"/>
+    <easing value="3"/>
+    <enlargeEase value="7"/>
+    <pictureDistance value="4"/>
+    <minThumbWidth value="51"/>
+    <minThumbHeight value="48"/>
+    <maxThumbWidth value="101"/>
+    <maxThumbHeight value="98"/>
+    <backgroundColor value="#465c71"/>
+    <backgroundAlpha value="0"/>
+    <maximizeBgColor value="#465c71"/>
+    <maximizeBgAlpha value="0.4"/>
+    <arrowURL value="assets/skins/skin/arrow4.png"/>
+    <useColorbox value="true"/>
+    <style value="assets/css/style3.css"/>
+    <assets value="images.xml"/>
+    <showAbout value="true"/>
+  </General_Properties>
+ <Colorbox_Properties>
+    <transition value="elastic"/>
+    <innerWidth value="900"/>
+    <innerHeight value="500"/>
+    <slideshow value="false"/>
+    <slideshowSpeed value="2500"/>
+  </Colorbox_Properties>
+  <Image_Properties>
+    <borderColor value="0xffffff"/>
+    <borderAlpha value="1"/>
+    <borderWidth value="1"/>
+  </Image_Properties>
+  <Tooltip_Properties>
+    <backgroundColor value="#465c71"/>
+    <backgroundAlpha value="0.6"/>
+    <cornerRadius value="5"/>
+    <embedFont value="true"/>
+  </Tooltip_Properties>
+  <DescriptionText_Properties>
+    <backgroundColor value="#465c71"/>
+    <backgroundAlpha value="0.7"/>
+    <cornerRadius value="5"/>
+    <embedFont value="true"/>
+  </DescriptionText_Properties>
+</settings>

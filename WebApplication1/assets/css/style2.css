@@ -1,0 +1,17 @@
+head{
+    font-family: Verdana;
+    font-size: 10px;
+	color: #000000;
+	text-align:center;
+}
+
+body{
+    font-family: Arial;
+    font-size: 11px;
+	color: #000000;
+	text-align:center;
+}
+a {
+	color: #465c71;
+	text-decoration:underline;
+}

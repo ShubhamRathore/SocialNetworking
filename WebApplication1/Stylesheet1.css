@@ -1,0 +1,28 @@
+﻿#avmenu {
+margin: 35px 0;
+padding: 0;
+font: 12px Verdana;
+list-style-type: none;
+}
+  
+#avmenu {
+display: inline;
+}
+  
+#avmenu  a {
+padding: 5px 10px;
+border: 1px solid #aaa;
+background-color: #1C1C1C;
+color: #47a;
+text-decoration: none;
+}
+#avmenu a:hover {
+background: #47a;
+color: #222;
+}
+  
+#avmenu .current a {
+border:1px solid #777;
+}
+
+
